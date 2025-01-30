@@ -2,4 +2,4 @@
 A page describing the AURA project.
 
 # Website
-Visit it here: [https://aura.github.io](https://aura.github.io).
+Visit it here: [https://aura.rf.github.io](https://aura.fr.github.io).
